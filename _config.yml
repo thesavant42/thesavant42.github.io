@@ -30,8 +30,8 @@ url: "https://thesavant42.github.io" # the base hostname & protocol for your sit
 github_username:  thesavant42
 
 # Build settings
-theme: minima
-#theme: dinky
+#theme: minima
+theme: dinky
 #remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   #- jekyll-remote-theme # add this line to the plugins list if you already have one
