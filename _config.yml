@@ -31,9 +31,10 @@ github_username:  thesavant42
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/dinky@v0.2.0
+theme: jekyll-theme-dinky
+#remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  #- jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
 
 # Exclude from processing.
